@@ -6,8 +6,7 @@
 ## 개발 기간
 ### **주제발표** 
 - 10/28(화) ~ 10/29(수)
-- PPT 작성
-- <https://www.figma.com/design/ju47ZjxaWPiNwbbSpuOJ3G/%EA%B8%B0%ED%95%99%EA%B8%B0-%EB%B0%9C%ED%91%9C-%EC%9E%90%EB%A3%8C-%EB%AA%A8%EC%9D%8C%EC%A7%91?node-id=0-1&p=f&t=krWTiPapw7DwDsLt-0>
+- PPT 작성 : <https://www.figma.com/design/ju47ZjxaWPiNwbbSpuOJ3G/%EA%B8%B0%ED%95%99%EA%B8%B0-%EB%B0%9C%ED%91%9C-%EC%9E%90%EB%A3%8C-%EB%AA%A8%EC%9D%8C%EC%A7%91?node-id=0-1&p=f&t=krWTiPapw7DwDsLt-0>
   
 - **발표** : 강민수
 - **제작** : 오지현
