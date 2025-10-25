@@ -1,4 +1,4 @@
-#BaseBallTeam
+# BaseBallTeam
 
 ## 프로젝트 소개
 "머신러닝에 기반한 실시간 도루 성공 확률 예측" 프로젝트
