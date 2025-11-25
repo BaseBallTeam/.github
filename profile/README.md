@@ -97,7 +97,7 @@ score_bucket, BS_combo 등
 
 <img width="436" height="551" alt="image" src="https://github.com/user-attachments/assets/4facabf3-11a7-4f58-a9a0-9951d10387c1" />
 
-<img width="686" height="653" alt="image" src="https://github.com/user-attachments/assets/20672c69-117d-4b0f-90ab-1b2fcb8e242e" />
+
 
 \
 모델1은 신체 피처의 성능이 가장 안정적이나, 실패 탐지(Recall for Fail)는
@@ -203,8 +203,13 @@ Reliability Diagram, Probability Histogram, ROC curve 등은 모델3(전체 피�
 
 ## 3. 프로젝트 실행하는 방법 
 
-1. dev브랜치에서 remote해서 파일을 받기
+1. dev브랜치에서 remote해서 파일을 받기 (main에는 내용이 업데이트 되어 있지 않습니다.)
 
-2. 구글코랩과 깃허브를 마운트해서 구글코랩으로 dev 브랜치의 코드 불러오기 (또는 (    )_modeling.py (매개변수만 바꾼 버전) / (   )_modeling.py(피처 조합을 바꾸어 3개를 모델링한 버전) 코드를 구글 코랩으로 복사붙여넣기 하기)
+2.
+   2-1. 구글코랩과 깃허브를 마운트해서 구글코랩으로 dev 브랜치의 코드를 불러와주세요. or
+   2-2. modelingComplete.py(피처 조합을 바꾸어 3개를 모델링한 버전) 코드를 구글 코랩으로 복사 붙여넣기 해주세요.
+   (둘 중 하나만 하면 됩니다)
 
-3. 아래의 데이터를 (또는 팀플 자료에 있는 KBO_2023_steal 2024, 2025 등의 CSV 파일) 구글 코랩의 현재 디렉토리에 넣고 실행시키기
+3.
+   3-1. 2-1의 방법을 쓰신 경우 data 폴더의 3개의 .csv 파일을 modelingComplete.py과 같은 경로에 넣고 실행시켜 주세요. (경로 문제)
+   3-2. 2-2의 방법을 쓰신 경우 data 폴더의 3개의 .csv 파일을 구글 코랩의 현재 디렉토리에 넣고 실행시켜 주세요.
